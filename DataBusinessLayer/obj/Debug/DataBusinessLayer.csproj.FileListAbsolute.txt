@@ -1,0 +1,9 @@
+E:\New Project\DVLD\DataBusinessLayer\obj\Debug\DataBusinessLayer.csproj.AssemblyReference.cache
+E:\New Project\DVLD\DataBusinessLayer\obj\Debug\DataBusinessLayer.csproj.CoreCompileInputs.cache
+E:\New Project\DVLD\DataBusinessLayer\bin\Debug\DataBusinessLayer.dll
+E:\New Project\DVLD\DataBusinessLayer\bin\Debug\DataBusinessLayer.pdb
+E:\New Project\DVLD\DataBusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\New Project\DVLD\DataBusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\New Project\DVLD\DataBusinessLayer\obj\Debug\DataBusi.8B057C7C.Up2Date
+E:\New Project\DVLD\DataBusinessLayer\obj\Debug\DataBusinessLayer.dll
+E:\New Project\DVLD\DataBusinessLayer\obj\Debug\DataBusinessLayer.pdb

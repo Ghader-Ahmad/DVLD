@@ -1,0 +1,17 @@
+# ملفات مؤقتة لـ Visual Studio
+*.user
+*.suo
+*.cache
+*.log
+.vs/
+
+# نتائج البناء (Build)
+bin/
+obj/
+
+# قاعدة بيانات محلية (إذا كانت .mdf)
+*.mdf
+*.ldf
+
+# مجلد Packages (بينعاد تحميله)
+packages/
